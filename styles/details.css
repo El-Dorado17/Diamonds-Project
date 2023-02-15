@@ -1,0 +1,18 @@
+/* You need to create the rest of styles for the layout shown */
+
+.options {
+    display: inline-block;
+    flex-basis: 24%;
+    margin: 2rem;
+    border: 10px double hotpink;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0.5rem 0.5rem 1rem rgb(124, 255, 203);
+}
+
+.choices{
+display: flex;
+width: 90%;
+}
+
+/* same height */
